@@ -1,4 +1,4 @@
---
+-- Comment for testing new build
 -- PostgreSQL database dump
 --
 
